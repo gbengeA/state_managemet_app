@@ -1,0 +1,2 @@
+C:/src/codex/state_managemet_app/android/app/.cxx/Debug/3g5r253k/x86/CMakeFiles/edit_cache.dir
+C:/src/codex/state_managemet_app/android/app/.cxx/Debug/3g5r253k/x86/CMakeFiles/rebuild_cache.dir

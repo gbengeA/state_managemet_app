@@ -1,0 +1,1 @@
+C:\src\codex\state_managemet_app\build\app\intermediates\cxx\Debug\3g5r253k\obj\arm64-v8a
